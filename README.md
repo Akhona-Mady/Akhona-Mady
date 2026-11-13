@@ -31,5 +31,5 @@ Responsive portfolio hosted on GitHub Pages.
 
 ### 📫 Contact Me
 📧 akhonamadywabe26@gmail.com
-🌐 Portfolio: https://akhona-mady.github.io/akhona-mady/
+🌐 Portfolio: https://akhona-mady.github.io/
 📍 Heidelberg, Gauteng, South Africa
