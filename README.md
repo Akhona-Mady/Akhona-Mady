@@ -29,7 +29,22 @@ Responsive portfolio hosted on GitHub Pages.
 - Umuzi Academy - Advanced Web Development
 - Agile Project Management Fundamentals
 
+### 📱 Native Mobile Apps - React Native (Try Live on Your Phone)
+
+**1. 🏥 Clinic Client Manager - Native App**
+Manage clients, search, add clients in real-time. Built with React Native + Expo.
+▶ Try Live: https://snack.expo.dev/@akhonam/clinic-local-app
+
+**2. 📚 School Marksheet - Native App**
+Add learners, auto-calculates class average, Pass / At Risk tracking. Built with React Native + Expo.
+▶ Try Live: https://snack.expo.dev/@akhonam/marksheet-app
+
+**3. 💰 Expense Tracker - Native App**
+Track spending, budget progress bar, add expenses. Built with React Native + Expo.
+▶ Try Live: https://snack.expo.dev/@akhonam/expense-tracker-app
+
 ### 📫 Contact Me
 📧 akhonamadywabe26@gmail.com
 🌐 Portfolio: https://akhona-mady.github.io/
 📍 Heidelberg, Gauteng, South Africa
+
