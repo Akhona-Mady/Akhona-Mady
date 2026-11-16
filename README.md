@@ -14,14 +14,17 @@ Trained at Umuzi Academy, certified by IBM & Microsoft. I build practical web ap
 JavaScript • React • Node.js • Express • MongoDB • SQL • PostgreSQL • Power BI • Azure • Docker • Git
 
 ### 🚀 Projects
-**1. School Marksheet Automation System** — React, Node.js, MongoDB
+1. **School Marksheet Automation System** — React, Node.js, MongoDB
 Web app for teachers to capture marks, auto-calculate averages, flag at-risk learners.
+[View on GitHub →](https://github.com/Akhona-Mady/school-marksheet-system)
 
-**2. Clinic Client Management System** — JavaScript, Node.js, MongoDB
+2. **Clinic Client Management System** — JavaScript, Node.js, MongoDB
 Digital client register with search, appointments and secure data entry.
+[View on GitHub →](https://github.com/Akhona-Mady/clinic-client-management)
 
-**3. Portfolio Website** — HTML, CSS, JavaScript
+3. **Portfolio Website** — HTML, CSS, JavaScript
 Responsive portfolio hosted on GitHub Pages.
+[Live Site →](https://akhona-mady.github.io/) | [View on GitHub →](https://github.com/Akhona-Mady/Akhona-Mady.github.io)
 
 ### 🎓 Certifications
 - IBM Full-Stack JavaScript Developer Professional Certificate
@@ -31,17 +34,11 @@ Responsive portfolio hosted on GitHub Pages.
 
 ### 📱 Native Mobile Apps - React Native (Try Live on Your Phone)
 
-**1. 🏥 Clinic Client Manager - Native App**
-Manage clients, search, add clients in real-time. Built with React Native + Expo.
-▶ Try Live: https://snack.expo.dev/@akhonam/clinic-local-app
+1. **Clinic Client Manager - Native App** Manage clients, search, add clients in real-time. Built with React Native + Expo. [▶ Try Live](https://snack.expo.dev/@akhonam/clinic-local-app)
 
-**2. 📚 School Marksheet - Native App**
-Add learners, auto-calculates class average, Pass / At Risk tracking. Built with React Native + Expo.
-▶ Try Live: https://snack.expo.dev/@akhonam/marksheet-app
+2. **School Marksheet - Native App** Add learners, auto-calculates class average, Pass / At Risk tracking. Built with React Native + Expo. [▶ Try Live](https://snack.expo.dev/@akhonam/marksheet-app)
 
-**3. 💰 Expense Tracker - Native App**
-Track spending, budget progress bar, add expenses. Built with React Native + Expo.
-▶ Try Live: https://snack.expo.dev/@akhonam/expense-tracker-app
+3. **Expense Tracker - Native App** Track spending, budget progress bar, add expenses. Built with React Native + Expo. [▶ Try Live](https://snack.expo.dev/@akhonam/expense-tracker-app)
 
 ### 📫 Contact Me
 📧 akhonamadywabe26@gmail.com
